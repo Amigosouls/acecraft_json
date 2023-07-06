@@ -1,0 +1,18 @@
+{
+  "name": "acecraft_conf",
+  "version": "1.0.0",
+  "description": "server configuration for acecraft angulr app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "acecraft_server"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "author": "Amigosouls",
+  "license": "ISC"
+}
